@@ -2,7 +2,7 @@
   "name": "Apkhenkie",
   "version": "1.0.0",
   "scripts": {
-    "build": "astro build"
+    "build": "npm run build"
   },
   "dependencies": {}
 }
